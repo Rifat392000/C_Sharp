@@ -1,0 +1,5 @@
+E:\DotNet(C-Sharp)\ExploreCS\ThirdProject\obj\Debug\netcoreapp1.0\ThirdProject.csproj.AssemblyReference.cache
+E:\DotNet(C-Sharp)\ExploreCS\ThirdProject\obj\Debug\netcoreapp1.0\ThirdProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet(C-Sharp)\ExploreCS\ThirdProject\obj\Debug\netcoreapp1.0\ThirdProject.AssemblyInfoInputs.cache
+E:\DotNet(C-Sharp)\ExploreCS\ThirdProject\obj\Debug\netcoreapp1.0\ThirdProject.AssemblyInfo.cs
+E:\DotNet(C-Sharp)\ExploreCS\ThirdProject\obj\Debug\netcoreapp1.0\ThirdProject.csproj.CoreCompileInputs.cache

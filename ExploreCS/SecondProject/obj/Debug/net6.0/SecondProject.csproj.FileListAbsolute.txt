@@ -1,0 +1,15 @@
+E:\DotNet(C-Sharp)\ExploreCS\SecondProject\bin\Debug\net6.0\SecondProject.exe
+E:\DotNet(C-Sharp)\ExploreCS\SecondProject\bin\Debug\net6.0\SecondProject.deps.json
+E:\DotNet(C-Sharp)\ExploreCS\SecondProject\bin\Debug\net6.0\SecondProject.runtimeconfig.json
+E:\DotNet(C-Sharp)\ExploreCS\SecondProject\bin\Debug\net6.0\SecondProject.dll
+E:\DotNet(C-Sharp)\ExploreCS\SecondProject\bin\Debug\net6.0\SecondProject.pdb
+E:\DotNet(C-Sharp)\ExploreCS\SecondProject\obj\Debug\net6.0\SecondProject.csproj.AssemblyReference.cache
+E:\DotNet(C-Sharp)\ExploreCS\SecondProject\obj\Debug\net6.0\SecondProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet(C-Sharp)\ExploreCS\SecondProject\obj\Debug\net6.0\SecondProject.AssemblyInfoInputs.cache
+E:\DotNet(C-Sharp)\ExploreCS\SecondProject\obj\Debug\net6.0\SecondProject.AssemblyInfo.cs
+E:\DotNet(C-Sharp)\ExploreCS\SecondProject\obj\Debug\net6.0\SecondProject.csproj.CoreCompileInputs.cache
+E:\DotNet(C-Sharp)\ExploreCS\SecondProject\obj\Debug\net6.0\SecondProject.dll
+E:\DotNet(C-Sharp)\ExploreCS\SecondProject\obj\Debug\net6.0\refint\SecondProject.dll
+E:\DotNet(C-Sharp)\ExploreCS\SecondProject\obj\Debug\net6.0\SecondProject.pdb
+E:\DotNet(C-Sharp)\ExploreCS\SecondProject\obj\Debug\net6.0\SecondProject.genruntimeconfig.cache
+E:\DotNet(C-Sharp)\ExploreCS\SecondProject\obj\Debug\net6.0\ref\SecondProject.dll
