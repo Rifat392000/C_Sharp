@@ -25,7 +25,15 @@ namespace Polymorphism
             Matrix obj = new Matrix(obj1.a - obj2.a, obj1.b - obj2.b, obj1.c - obj2.c, obj1.d - obj2.d);
             return obj;
         }
+/*
+        public static void Writeline(Object value)
+        {
+            string TypeName = value.ToString();
 
+            Writeline(TypeName);
+        }
+
+*/
         //The ToString method overrides the default string representation of the Matrix class
         public override string ToString()
         {
