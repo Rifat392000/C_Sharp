@@ -1,0 +1,15 @@
+E:\DotNet(C-Sharp)\oopConcepts\Polymorphism\bin\Debug\net6.0\Polymorphism.exe
+E:\DotNet(C-Sharp)\oopConcepts\Polymorphism\bin\Debug\net6.0\Polymorphism.deps.json
+E:\DotNet(C-Sharp)\oopConcepts\Polymorphism\bin\Debug\net6.0\Polymorphism.runtimeconfig.json
+E:\DotNet(C-Sharp)\oopConcepts\Polymorphism\bin\Debug\net6.0\Polymorphism.dll
+E:\DotNet(C-Sharp)\oopConcepts\Polymorphism\bin\Debug\net6.0\Polymorphism.pdb
+E:\DotNet(C-Sharp)\oopConcepts\Polymorphism\obj\Debug\net6.0\Polymorphism.csproj.AssemblyReference.cache
+E:\DotNet(C-Sharp)\oopConcepts\Polymorphism\obj\Debug\net6.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet(C-Sharp)\oopConcepts\Polymorphism\obj\Debug\net6.0\Polymorphism.AssemblyInfoInputs.cache
+E:\DotNet(C-Sharp)\oopConcepts\Polymorphism\obj\Debug\net6.0\Polymorphism.AssemblyInfo.cs
+E:\DotNet(C-Sharp)\oopConcepts\Polymorphism\obj\Debug\net6.0\Polymorphism.csproj.CoreCompileInputs.cache
+E:\DotNet(C-Sharp)\oopConcepts\Polymorphism\obj\Debug\net6.0\Polymorphism.dll
+E:\DotNet(C-Sharp)\oopConcepts\Polymorphism\obj\Debug\net6.0\refint\Polymorphism.dll
+E:\DotNet(C-Sharp)\oopConcepts\Polymorphism\obj\Debug\net6.0\Polymorphism.pdb
+E:\DotNet(C-Sharp)\oopConcepts\Polymorphism\obj\Debug\net6.0\Polymorphism.genruntimeconfig.cache
+E:\DotNet(C-Sharp)\oopConcepts\Polymorphism\obj\Debug\net6.0\ref\Polymorphism.dll
