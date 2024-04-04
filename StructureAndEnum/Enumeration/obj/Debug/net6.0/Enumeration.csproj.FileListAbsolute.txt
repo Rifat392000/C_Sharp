@@ -1,0 +1,15 @@
+E:\DotNet(C-Sharp)\StructureAndEnum\Enumeration\bin\Debug\net6.0\Enumeration.exe
+E:\DotNet(C-Sharp)\StructureAndEnum\Enumeration\bin\Debug\net6.0\Enumeration.deps.json
+E:\DotNet(C-Sharp)\StructureAndEnum\Enumeration\bin\Debug\net6.0\Enumeration.runtimeconfig.json
+E:\DotNet(C-Sharp)\StructureAndEnum\Enumeration\bin\Debug\net6.0\Enumeration.dll
+E:\DotNet(C-Sharp)\StructureAndEnum\Enumeration\bin\Debug\net6.0\Enumeration.pdb
+E:\DotNet(C-Sharp)\StructureAndEnum\Enumeration\obj\Debug\net6.0\Enumeration.csproj.AssemblyReference.cache
+E:\DotNet(C-Sharp)\StructureAndEnum\Enumeration\obj\Debug\net6.0\Enumeration.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet(C-Sharp)\StructureAndEnum\Enumeration\obj\Debug\net6.0\Enumeration.AssemblyInfoInputs.cache
+E:\DotNet(C-Sharp)\StructureAndEnum\Enumeration\obj\Debug\net6.0\Enumeration.AssemblyInfo.cs
+E:\DotNet(C-Sharp)\StructureAndEnum\Enumeration\obj\Debug\net6.0\Enumeration.csproj.CoreCompileInputs.cache
+E:\DotNet(C-Sharp)\StructureAndEnum\Enumeration\obj\Debug\net6.0\Enumeration.dll
+E:\DotNet(C-Sharp)\StructureAndEnum\Enumeration\obj\Debug\net6.0\refint\Enumeration.dll
+E:\DotNet(C-Sharp)\StructureAndEnum\Enumeration\obj\Debug\net6.0\Enumeration.pdb
+E:\DotNet(C-Sharp)\StructureAndEnum\Enumeration\obj\Debug\net6.0\Enumeration.genruntimeconfig.cache
+E:\DotNet(C-Sharp)\StructureAndEnum\Enumeration\obj\Debug\net6.0\ref\Enumeration.dll

@@ -1,0 +1,15 @@
+E:\DotNet(C-Sharp)\StructureAndEnum\StructureAndEnum\bin\Debug\net6.0\Structure.exe
+E:\DotNet(C-Sharp)\StructureAndEnum\StructureAndEnum\bin\Debug\net6.0\Structure.deps.json
+E:\DotNet(C-Sharp)\StructureAndEnum\StructureAndEnum\bin\Debug\net6.0\Structure.runtimeconfig.json
+E:\DotNet(C-Sharp)\StructureAndEnum\StructureAndEnum\bin\Debug\net6.0\Structure.dll
+E:\DotNet(C-Sharp)\StructureAndEnum\StructureAndEnum\bin\Debug\net6.0\Structure.pdb
+E:\DotNet(C-Sharp)\StructureAndEnum\StructureAndEnum\obj\Debug\net6.0\Structure.csproj.AssemblyReference.cache
+E:\DotNet(C-Sharp)\StructureAndEnum\StructureAndEnum\obj\Debug\net6.0\Structure.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet(C-Sharp)\StructureAndEnum\StructureAndEnum\obj\Debug\net6.0\Structure.AssemblyInfoInputs.cache
+E:\DotNet(C-Sharp)\StructureAndEnum\StructureAndEnum\obj\Debug\net6.0\Structure.AssemblyInfo.cs
+E:\DotNet(C-Sharp)\StructureAndEnum\StructureAndEnum\obj\Debug\net6.0\Structure.csproj.CoreCompileInputs.cache
+E:\DotNet(C-Sharp)\StructureAndEnum\StructureAndEnum\obj\Debug\net6.0\Structure.dll
+E:\DotNet(C-Sharp)\StructureAndEnum\StructureAndEnum\obj\Debug\net6.0\refint\Structure.dll
+E:\DotNet(C-Sharp)\StructureAndEnum\StructureAndEnum\obj\Debug\net6.0\Structure.pdb
+E:\DotNet(C-Sharp)\StructureAndEnum\StructureAndEnum\obj\Debug\net6.0\Structure.genruntimeconfig.cache
+E:\DotNet(C-Sharp)\StructureAndEnum\StructureAndEnum\obj\Debug\net6.0\ref\Structure.dll
