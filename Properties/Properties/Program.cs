@@ -1,16 +1,15 @@
 ﻿
-
 namespace Properties
 {
 
     internal class child : Customer
     {
         
-        internal child(int Cid, bool Status, string Name, double Balance, Cities City, string State) : base(Cid, Status, Name, Balance, City, "Africa")
+        internal child(int Cid, bool Status, string Name, double Balance, Cities City, string State) : base(Cid, Status, Name, Balance, City, State)
         {
             
         }
-
+       
         
     }
 

@@ -37,7 +37,9 @@ namespace Properties
         {
             get { return _Status; }
 
-            set { _Status = value; }
+            set { _Status = value; 
+            //value is a implicit variable that provides access to the value assign by the user
+            }
         }
 
         internal double balance
