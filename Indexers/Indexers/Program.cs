@@ -28,6 +28,17 @@
 
             emp[6] = "Rocket Engineer";
             Console.WriteLine(emp[6]);
+
+            Console.WriteLine() ;
+
+            Console.WriteLine(emp["eNO"]);
+            Console.WriteLine(emp["LOCAtion"]);
+
+            emp["dnamE"] = "Assistant Programmer";
+            Console.WriteLine(emp["DNAME"]);
+
+            emp["SALARY"] = 5487556.235;
+            Console.WriteLine(emp["salarY"]);
         }
     }
 }
