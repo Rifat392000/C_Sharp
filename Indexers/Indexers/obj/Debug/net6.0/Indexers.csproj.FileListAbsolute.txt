@@ -1,0 +1,15 @@
+E:\DotNet(C-Sharp)\Indexers\Indexers\bin\Debug\net6.0\Indexers.exe
+E:\DotNet(C-Sharp)\Indexers\Indexers\bin\Debug\net6.0\Indexers.deps.json
+E:\DotNet(C-Sharp)\Indexers\Indexers\bin\Debug\net6.0\Indexers.runtimeconfig.json
+E:\DotNet(C-Sharp)\Indexers\Indexers\bin\Debug\net6.0\Indexers.dll
+E:\DotNet(C-Sharp)\Indexers\Indexers\bin\Debug\net6.0\Indexers.pdb
+E:\DotNet(C-Sharp)\Indexers\Indexers\obj\Debug\net6.0\Indexers.csproj.AssemblyReference.cache
+E:\DotNet(C-Sharp)\Indexers\Indexers\obj\Debug\net6.0\Indexers.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet(C-Sharp)\Indexers\Indexers\obj\Debug\net6.0\Indexers.AssemblyInfoInputs.cache
+E:\DotNet(C-Sharp)\Indexers\Indexers\obj\Debug\net6.0\Indexers.AssemblyInfo.cs
+E:\DotNet(C-Sharp)\Indexers\Indexers\obj\Debug\net6.0\Indexers.csproj.CoreCompileInputs.cache
+E:\DotNet(C-Sharp)\Indexers\Indexers\obj\Debug\net6.0\Indexers.dll
+E:\DotNet(C-Sharp)\Indexers\Indexers\obj\Debug\net6.0\refint\Indexers.dll
+E:\DotNet(C-Sharp)\Indexers\Indexers\obj\Debug\net6.0\Indexers.pdb
+E:\DotNet(C-Sharp)\Indexers\Indexers\obj\Debug\net6.0\Indexers.genruntimeconfig.cache
+E:\DotNet(C-Sharp)\Indexers\Indexers\obj\Debug\net6.0\ref\Indexers.dll
