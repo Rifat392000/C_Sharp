@@ -1,0 +1,15 @@
+E:\DotNet(C-Sharp)\Delegates\Multicast\bin\Debug\net6.0\Multicast.exe
+E:\DotNet(C-Sharp)\Delegates\Multicast\bin\Debug\net6.0\Multicast.deps.json
+E:\DotNet(C-Sharp)\Delegates\Multicast\bin\Debug\net6.0\Multicast.runtimeconfig.json
+E:\DotNet(C-Sharp)\Delegates\Multicast\bin\Debug\net6.0\Multicast.dll
+E:\DotNet(C-Sharp)\Delegates\Multicast\bin\Debug\net6.0\Multicast.pdb
+E:\DotNet(C-Sharp)\Delegates\Multicast\obj\Debug\net6.0\Multicast.csproj.AssemblyReference.cache
+E:\DotNet(C-Sharp)\Delegates\Multicast\obj\Debug\net6.0\Multicast.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet(C-Sharp)\Delegates\Multicast\obj\Debug\net6.0\Multicast.AssemblyInfoInputs.cache
+E:\DotNet(C-Sharp)\Delegates\Multicast\obj\Debug\net6.0\Multicast.AssemblyInfo.cs
+E:\DotNet(C-Sharp)\Delegates\Multicast\obj\Debug\net6.0\Multicast.csproj.CoreCompileInputs.cache
+E:\DotNet(C-Sharp)\Delegates\Multicast\obj\Debug\net6.0\Multicast.dll
+E:\DotNet(C-Sharp)\Delegates\Multicast\obj\Debug\net6.0\refint\Multicast.dll
+E:\DotNet(C-Sharp)\Delegates\Multicast\obj\Debug\net6.0\Multicast.pdb
+E:\DotNet(C-Sharp)\Delegates\Multicast\obj\Debug\net6.0\Multicast.genruntimeconfig.cache
+E:\DotNet(C-Sharp)\Delegates\Multicast\obj\Debug\net6.0\ref\Multicast.dll
