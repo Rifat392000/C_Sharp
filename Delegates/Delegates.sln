@@ -5,7 +5,9 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntroductionDelegates", "Delegates\IntroductionDelegates.csproj", "{1DA87182-7038-4346-99F8-3F8B5A293B09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multicast", "Multicast\Multicast.csproj", "{39E5B8FC-E268-45F2-AAD4-71ECA6F9A1D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multicast", "Multicast\Multicast.csproj", "{39E5B8FC-E268-45F2-AAD4-71ECA6F9A1D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericDelegates", "Func^^Action^^Predicate\GenericDelegates.csproj", "{13A90EB4-6A3F-48F4-985C-D190B5782ECC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{39E5B8FC-E268-45F2-AAD4-71ECA6F9A1D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39E5B8FC-E268-45F2-AAD4-71ECA6F9A1D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39E5B8FC-E268-45F2-AAD4-71ECA6F9A1D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13A90EB4-6A3F-48F4-985C-D190B5782ECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A90EB4-6A3F-48F4-985C-D190B5782ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13A90EB4-6A3F-48F4-985C-D190B5782ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13A90EB4-6A3F-48F4-985C-D190B5782ECC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
