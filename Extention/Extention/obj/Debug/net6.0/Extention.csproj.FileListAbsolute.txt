@@ -1,0 +1,15 @@
+E:\DotNet(C-Sharp)\Extention\Extention\bin\Debug\net6.0\Extention.exe
+E:\DotNet(C-Sharp)\Extention\Extention\bin\Debug\net6.0\Extention.deps.json
+E:\DotNet(C-Sharp)\Extention\Extention\bin\Debug\net6.0\Extention.runtimeconfig.json
+E:\DotNet(C-Sharp)\Extention\Extention\bin\Debug\net6.0\Extention.dll
+E:\DotNet(C-Sharp)\Extention\Extention\bin\Debug\net6.0\Extention.pdb
+E:\DotNet(C-Sharp)\Extention\Extention\obj\Debug\net6.0\Extention.csproj.AssemblyReference.cache
+E:\DotNet(C-Sharp)\Extention\Extention\obj\Debug\net6.0\Extention.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet(C-Sharp)\Extention\Extention\obj\Debug\net6.0\Extention.AssemblyInfoInputs.cache
+E:\DotNet(C-Sharp)\Extention\Extention\obj\Debug\net6.0\Extention.AssemblyInfo.cs
+E:\DotNet(C-Sharp)\Extention\Extention\obj\Debug\net6.0\Extention.csproj.CoreCompileInputs.cache
+E:\DotNet(C-Sharp)\Extention\Extention\obj\Debug\net6.0\Extention.dll
+E:\DotNet(C-Sharp)\Extention\Extention\obj\Debug\net6.0\refint\Extention.dll
+E:\DotNet(C-Sharp)\Extention\Extention\obj\Debug\net6.0\Extention.pdb
+E:\DotNet(C-Sharp)\Extention\Extention\obj\Debug\net6.0\Extention.genruntimeconfig.cache
+E:\DotNet(C-Sharp)\Extention\Extention\obj\Debug\net6.0\ref\Extention.dll
