@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String_And_StringBulder", "String_And_StringBulder\String_And_StringBulder.csproj", "{0810DF40-4D7D-4F63-92D6-F195E13F6B9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0810DF40-4D7D-4F63-92D6-F195E13F6B9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0810DF40-4D7D-4F63-92D6-F195E13F6B9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0810DF40-4D7D-4F63-92D6-F195E13F6B9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0810DF40-4D7D-4F63-92D6-F195E13F6B9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C4B0488-E076-4067-9593-CF2E9BBE855C}
+	EndGlobalSection
+EndGlobal

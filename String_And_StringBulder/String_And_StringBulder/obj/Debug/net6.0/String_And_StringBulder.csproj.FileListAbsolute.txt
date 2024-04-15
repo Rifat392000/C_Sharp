@@ -1,0 +1,15 @@
+E:\DotNet(C-Sharp)\String_And_StringBulder\String_And_StringBulder\bin\Debug\net6.0\String_And_StringBulder.exe
+E:\DotNet(C-Sharp)\String_And_StringBulder\String_And_StringBulder\bin\Debug\net6.0\String_And_StringBulder.deps.json
+E:\DotNet(C-Sharp)\String_And_StringBulder\String_And_StringBulder\bin\Debug\net6.0\String_And_StringBulder.runtimeconfig.json
+E:\DotNet(C-Sharp)\String_And_StringBulder\String_And_StringBulder\bin\Debug\net6.0\String_And_StringBulder.dll
+E:\DotNet(C-Sharp)\String_And_StringBulder\String_And_StringBulder\bin\Debug\net6.0\String_And_StringBulder.pdb
+E:\DotNet(C-Sharp)\String_And_StringBulder\String_And_StringBulder\obj\Debug\net6.0\String_And_StringBulder.csproj.AssemblyReference.cache
+E:\DotNet(C-Sharp)\String_And_StringBulder\String_And_StringBulder\obj\Debug\net6.0\String_And_StringBulder.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet(C-Sharp)\String_And_StringBulder\String_And_StringBulder\obj\Debug\net6.0\String_And_StringBulder.AssemblyInfoInputs.cache
+E:\DotNet(C-Sharp)\String_And_StringBulder\String_And_StringBulder\obj\Debug\net6.0\String_And_StringBulder.AssemblyInfo.cs
+E:\DotNet(C-Sharp)\String_And_StringBulder\String_And_StringBulder\obj\Debug\net6.0\String_And_StringBulder.csproj.CoreCompileInputs.cache
+E:\DotNet(C-Sharp)\String_And_StringBulder\String_And_StringBulder\obj\Debug\net6.0\String_And_StringBulder.dll
+E:\DotNet(C-Sharp)\String_And_StringBulder\String_And_StringBulder\obj\Debug\net6.0\refint\String_And_StringBulder.dll
+E:\DotNet(C-Sharp)\String_And_StringBulder\String_And_StringBulder\obj\Debug\net6.0\String_And_StringBulder.pdb
+E:\DotNet(C-Sharp)\String_And_StringBulder\String_And_StringBulder\obj\Debug\net6.0\String_And_StringBulder.genruntimeconfig.cache
+E:\DotNet(C-Sharp)\String_And_StringBulder\String_And_StringBulder\obj\Debug\net6.0\ref\String_And_StringBulder.dll
