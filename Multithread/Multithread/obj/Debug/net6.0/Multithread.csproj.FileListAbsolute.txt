@@ -1,0 +1,15 @@
+E:\DotNet(C-Sharp)\Multithread\Multithread\bin\Debug\net6.0\Multithread.exe
+E:\DotNet(C-Sharp)\Multithread\Multithread\bin\Debug\net6.0\Multithread.deps.json
+E:\DotNet(C-Sharp)\Multithread\Multithread\bin\Debug\net6.0\Multithread.runtimeconfig.json
+E:\DotNet(C-Sharp)\Multithread\Multithread\bin\Debug\net6.0\Multithread.dll
+E:\DotNet(C-Sharp)\Multithread\Multithread\bin\Debug\net6.0\Multithread.pdb
+E:\DotNet(C-Sharp)\Multithread\Multithread\obj\Debug\net6.0\Multithread.csproj.AssemblyReference.cache
+E:\DotNet(C-Sharp)\Multithread\Multithread\obj\Debug\net6.0\Multithread.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet(C-Sharp)\Multithread\Multithread\obj\Debug\net6.0\Multithread.AssemblyInfoInputs.cache
+E:\DotNet(C-Sharp)\Multithread\Multithread\obj\Debug\net6.0\Multithread.AssemblyInfo.cs
+E:\DotNet(C-Sharp)\Multithread\Multithread\obj\Debug\net6.0\Multithread.csproj.CoreCompileInputs.cache
+E:\DotNet(C-Sharp)\Multithread\Multithread\obj\Debug\net6.0\Multithread.dll
+E:\DotNet(C-Sharp)\Multithread\Multithread\obj\Debug\net6.0\refint\Multithread.dll
+E:\DotNet(C-Sharp)\Multithread\Multithread\obj\Debug\net6.0\Multithread.pdb
+E:\DotNet(C-Sharp)\Multithread\Multithread\obj\Debug\net6.0\Multithread.genruntimeconfig.cache
+E:\DotNet(C-Sharp)\Multithread\Multithread\obj\Debug\net6.0\ref\Multithread.dll
