@@ -1,0 +1,15 @@
+E:\DotNet(C-Sharp)\Multithread\ConsoleAppMultiThread\obj\Debug\net6.0\ConsoleAppMultiThread.csproj.AssemblyReference.cache
+E:\DotNet(C-Sharp)\Multithread\ConsoleAppMultiThread\obj\Debug\net6.0\ConsoleAppMultiThread.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet(C-Sharp)\Multithread\ConsoleAppMultiThread\obj\Debug\net6.0\ConsoleAppMultiThread.AssemblyInfoInputs.cache
+E:\DotNet(C-Sharp)\Multithread\ConsoleAppMultiThread\obj\Debug\net6.0\ConsoleAppMultiThread.AssemblyInfo.cs
+E:\DotNet(C-Sharp)\Multithread\ConsoleAppMultiThread\obj\Debug\net6.0\ConsoleAppMultiThread.csproj.CoreCompileInputs.cache
+E:\DotNet(C-Sharp)\Multithread\ConsoleAppMultiThread\bin\Debug\net6.0\ConsoleAppMultiThread.exe
+E:\DotNet(C-Sharp)\Multithread\ConsoleAppMultiThread\bin\Debug\net6.0\ConsoleAppMultiThread.deps.json
+E:\DotNet(C-Sharp)\Multithread\ConsoleAppMultiThread\bin\Debug\net6.0\ConsoleAppMultiThread.runtimeconfig.json
+E:\DotNet(C-Sharp)\Multithread\ConsoleAppMultiThread\bin\Debug\net6.0\ConsoleAppMultiThread.dll
+E:\DotNet(C-Sharp)\Multithread\ConsoleAppMultiThread\bin\Debug\net6.0\ConsoleAppMultiThread.pdb
+E:\DotNet(C-Sharp)\Multithread\ConsoleAppMultiThread\obj\Debug\net6.0\ConsoleAppMultiThread.dll
+E:\DotNet(C-Sharp)\Multithread\ConsoleAppMultiThread\obj\Debug\net6.0\refint\ConsoleAppMultiThread.dll
+E:\DotNet(C-Sharp)\Multithread\ConsoleAppMultiThread\obj\Debug\net6.0\ConsoleAppMultiThread.pdb
+E:\DotNet(C-Sharp)\Multithread\ConsoleAppMultiThread\obj\Debug\net6.0\ConsoleAppMultiThread.genruntimeconfig.cache
+E:\DotNet(C-Sharp)\Multithread\ConsoleAppMultiThread\obj\Debug\net6.0\ref\ConsoleAppMultiThread.dll

@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multithread", "Multithread\Multithread.csproj", "{058F99E1-EC03-4448-9B45-5D27C0ECBC4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multithread", "Multithread\Multithread.csproj", "{058F99E1-EC03-4448-9B45-5D27C0ECBC4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppMultiThread", "ConsoleAppMultiThread\ConsoleAppMultiThread.csproj", "{830D705D-5212-46AF-B47E-814261DB248A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{058F99E1-EC03-4448-9B45-5D27C0ECBC4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{058F99E1-EC03-4448-9B45-5D27C0ECBC4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{058F99E1-EC03-4448-9B45-5D27C0ECBC4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{830D705D-5212-46AF-B47E-814261DB248A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{830D705D-5212-46AF-B47E-814261DB248A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{830D705D-5212-46AF-B47E-814261DB248A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{830D705D-5212-46AF-B47E-814261DB248A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

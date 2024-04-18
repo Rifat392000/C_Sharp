@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Multithread/1.0.0": {
+      "ConsoleAppMultiThread/1.0.0": {
         "runtime": {
-          "Multithread.dll": {}
+          "ConsoleAppMultiThread.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Multithread/1.0.0": {
+    "ConsoleAppMultiThread/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
