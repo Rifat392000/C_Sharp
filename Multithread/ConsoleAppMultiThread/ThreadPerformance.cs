@@ -12,7 +12,7 @@ namespace ConsoleAppMultiThread
         static long count1 = 0 , count2 =0;
         static void Increment1()
         {
-            for(long i = 0; i < 100000000; i++)
+            for(long i = 0; i < 10000000000; i++)
             {
                 count1 += 1;
             }
@@ -20,7 +20,7 @@ namespace ConsoleAppMultiThread
 
         static void Increment2()
         {
-            for (long i = 0; i < 100000000; i++)
+            for (long i = 0; i < 10000000000; i++)
             {
                 count2 += 1;
             }
