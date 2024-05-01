@@ -1,0 +1,12 @@
+E:\DotNet(C-Sharp)\CompanySolution\CompanySolution\bin\Debug\CompanySolution.exe.config
+E:\DotNet(C-Sharp)\CompanySolution\CompanySolution\bin\Debug\CompanySolution.exe
+E:\DotNet(C-Sharp)\CompanySolution\CompanySolution\bin\Debug\CompanySolution.pdb
+E:\DotNet(C-Sharp)\CompanySolution\CompanySolution\obj\Debug\CompanySolution.csproj.AssemblyReference.cache
+E:\DotNet(C-Sharp)\CompanySolution\CompanySolution\obj\Debug\CompanySolution.csproj.SuggestedBindingRedirects.cache
+E:\DotNet(C-Sharp)\CompanySolution\CompanySolution\obj\Debug\CompanySolution.Form1.resources
+E:\DotNet(C-Sharp)\CompanySolution\CompanySolution\obj\Debug\CompanySolution.Properties.Resources.resources
+E:\DotNet(C-Sharp)\CompanySolution\CompanySolution\obj\Debug\CompanySolution.csproj.GenerateResource.cache
+E:\DotNet(C-Sharp)\CompanySolution\CompanySolution\obj\Debug\CompanySolution.csproj.CoreCompileInputs.cache
+E:\DotNet(C-Sharp)\CompanySolution\CompanySolution\obj\Debug\CompanySolution.exe
+E:\DotNet(C-Sharp)\CompanySolution\CompanySolution\obj\Debug\CompanySolution.pdb
+E:\DotNet(C-Sharp)\CompanySolution\CompanySolution\obj\Debug\CompanySolution.Form2.resources
